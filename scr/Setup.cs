@@ -1,1 +1,5 @@
+using System;
 
+namespace Dash {
+
+}
