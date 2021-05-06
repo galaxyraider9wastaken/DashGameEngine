@@ -1,5 +1,5 @@
 using System;
-//Use Dash library
+//Use Dash library new Vector2(Camera.Coordinates.X - DCoordinates.X, Camera.Coordinates.Y - DCoordinates.Y); 
 using Dash;
 
 namespace Main{
