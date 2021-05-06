@@ -8,7 +8,7 @@ namespace Main{
   public static DrawBatch DB = new DrawBatch();
   public static void Main (string[] args) {
     //Set Textures here
-    var YourTexture = new Texture2D(new Vector2(YourtextureSizeX, YourtextureSizeY), "Yourtexturenamewithfileextention");
+    var YourTexture = new Texture2D(new Vector2(YourtextureSizeX, YourtextureSizeY), "YourTexturePathWithFileExtention");
     //Start the Game Loop 
     while(true){
       //Draw Textures
