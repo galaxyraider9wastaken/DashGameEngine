@@ -26,4 +26,6 @@ function Main(){
   for(i =0;i<sprites.length;i++){
     ctx.drawImage(sprites[i].img, sprites[i].x, sprites[i].y, sprites[i].w, sprites[i].h);
   }
-}
+} setInterval(function(){ 
+    Main()
+}, 1);
