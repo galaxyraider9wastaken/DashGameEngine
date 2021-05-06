@@ -2,6 +2,7 @@ namespace Dash
 {
     public class DrawBatch : Config
     {
+        public Vector2 Postition;
         public DrawBatch()
         {
 
