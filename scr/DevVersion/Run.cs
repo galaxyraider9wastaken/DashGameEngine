@@ -4,7 +4,7 @@ using System;
 namespace Run{
   class MainClass {
     public static void Main (string[] args) {
-      System.Diagnostics.Process.Start("please put the file path to the main the html in your main project here");
+      System.Diagnostics.Process.Start("please put the file path to the main the html in your project here");
     }
   }
 }
