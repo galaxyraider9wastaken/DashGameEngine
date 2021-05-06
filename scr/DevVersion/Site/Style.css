@@ -1,1 +1,7 @@
-
+body {
+  background: rgb(255, 255, 255);
+  color: #f8f8f8;
+}
+canvas {
+  background: #f8f8f8;
+}
