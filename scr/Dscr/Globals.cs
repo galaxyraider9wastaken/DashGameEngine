@@ -2,6 +2,6 @@
 
 namespace Dash {
   public class Globals {
-    public static bool TDPath;
+    public static string TDPath;
   }
 }
